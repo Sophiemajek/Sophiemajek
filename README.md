@@ -31,7 +31,6 @@ Environment: Cybersecurity Operations
 
 Featured case studies
  ## Case study
- |---------|--------|--------|
  
 Featured Case Study 
 Joiner–Mover–Leaver Workflow
@@ -42,6 +41,9 @@ RBAC & Least Privilege
 Implemented an entitlement matrix and validate group/role assignments.
 AD and Entra ID Administration
 Documented identity configuration, GPOs and secure access controls.
+
+
+## Featured Case Study 
 
 ## Technical projects
 |Project|
