@@ -1,4 +1,4 @@
-##Sophie Majek | Identity & Access Management Analyst
+## Sophie Majek | Identity & Access Management Analyst
 Identity Governance | Active Directory | Microsoft Entra ID | RBAC
 
 📍 Texas· m3majek@gmail.com
