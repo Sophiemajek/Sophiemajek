@@ -31,6 +31,8 @@ Environment: Cybersecurity Operations
 
 Featured case studies
  ## Case study
+ |---------|--------|--------|
+ 
 Featured Case Study 
 Joiner–Mover–Leaver Workflow
 Documented authorized provisioning, changes and deprovisioning with approval and closure evidence.
